@@ -2,6 +2,7 @@
 This is a code reproduction for the paper titled "N-BaIoT—Network-Based Detection of IoT Botnet Attacks Using Deep Autoencoders"
 
 # Dependancies 
+developed using python 3.7.9 
 - numpy v 1.19.4
 - pandas v 1.1.2
 - sklearn v 0.24.1
